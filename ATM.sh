@@ -60,3 +60,4 @@ else
 	echo "your name is incorrect"
 fi
 echo "hi"
+echo "bye"
