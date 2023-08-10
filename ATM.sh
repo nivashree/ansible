@@ -59,3 +59,4 @@ if [[ $n = sowmiya ]];then
 else
 	echo "your name is incorrect"
 fi
+echo "hi"
